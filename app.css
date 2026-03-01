@@ -10,3 +10,11 @@ body {
   color: #eee;
   font-size: 1.6em;
 }
+h1, h2 {
+  color: #999;
+  font-size: 2em;
+}
+p {
+  font-size: 1.6em;
+  color: #222;
+}
